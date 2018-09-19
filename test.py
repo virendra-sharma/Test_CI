@@ -1,6 +1,6 @@
 class Test:
     def __init__(self):
-        print "Test Initialised..."
+        print "Test Initialised.........."
         
         
 t = Test()
